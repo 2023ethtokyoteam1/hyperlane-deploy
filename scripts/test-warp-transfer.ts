@@ -12,7 +12,7 @@ import {
   HypNative,
   HypNative__factory,
   TokenType,
-} from '@hyperlane-xyz/hyperlane-token';
+} from '../hyperlane-token';
 import {
   ChainMap,
   CoreFactories,

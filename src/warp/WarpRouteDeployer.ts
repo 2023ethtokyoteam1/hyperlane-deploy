@@ -7,7 +7,7 @@ import {
   HypERC20Factories,
   TokenConfig,
   TokenType,
-} from '@hyperlane-xyz/hyperlane-token';
+} from '../../hyperlane-token';
 import {
   ChainMap,
   ChainName,

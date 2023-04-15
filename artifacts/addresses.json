@@ -1,1 +1,20 @@
-{}
+{
+  "lineagoerli": {
+    "validatorAnnounce": "0xaB270149Fd88a285993C26adA1dd8B0A38EB3d8c",
+    "proxyAdmin": "0xc4D278cbF191021404bd5b2B3fa10FCCE28C9184",
+    "mailbox": "0xC54342bdE34268e50aa40191f7fFC68600C09F48",
+    "multisigIsm": "0x2fDB62B89c7Ec5Dbb8E46322f7c6619f88b428a1",
+    "testRecipient": "0x81e1fE9A07e91fB73f2a9b8BEe28E9fc4Aa7A205",
+    "storageGasOracle": "0xc6Fff7625bE1aE7046cFDE1BDa9Dd180775107cA",
+    "interchainGasPaymaster": "0xfBe922ae6dEdAFf92A877FE9dD603A190f01d4E2",
+    "defaultIsmInterchainGasPaymaster": "0xabaaF2a2bd9a546efa4D5e88375EbeEB4438D38c"
+  },
+  "mumbai": {
+    "multisigIsm": "0x2fDB62B89c7Ec5Dbb8E46322f7c6619f88b428a1",
+    "testRecipient": "0xF2000CA96541476Af62B5bCD09D98E66d8E2966A",
+    "proxyAdmin": "0xC54342bdE34268e50aa40191f7fFC68600C09F48",
+    "storageGasOracle": "0xaB270149Fd88a285993C26adA1dd8B0A38EB3d8c",
+    "interchainGasPaymaster": "0xbF4d35716fFd25a55ED9d91767C8B9BEBc6506E8",
+    "defaultIsmInterchainGasPaymaster": "0xc4D278cbF191021404bd5b2B3fa10FCCE28C9184"
+  }
+}

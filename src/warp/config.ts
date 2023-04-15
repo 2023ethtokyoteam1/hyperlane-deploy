@@ -1,6 +1,6 @@
 import { z } from 'zod';
 
-import { TokenType } from '@hyperlane-xyz/hyperlane-token';
+import { TokenType } from '../../hyperlane-token';
 import { ConnectionClientConfig } from '@hyperlane-xyz/sdk/dist/router/types';
 
 type WarpBaseToken = {

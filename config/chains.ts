@@ -29,4 +29,13 @@ export const chains: ChainMap<ChainMetadata> = {
       },
     ],
   },
+  lineagoerli: {
+    name: 'lineagoerli',
+    chainId: 59140,
+    publicRpcUrls: [
+      {
+        http: 'https://rpc.goerli.linea.build',
+      },
+    ],
+  },
 };

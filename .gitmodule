@@ -1,0 +1,3 @@
+[submodule "hyperlane-token"]
+	path = hyperlane-token
+	url = https://github.com/hyperlane-xyz/hyperlane-token.git
